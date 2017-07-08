@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #bf1f26;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(0, -50%);
+    text-align: center;
+    width: 100%;
+}
+
+.center span {
+    font-family: arial;
+    font-size: 48px;
+    color: #fff;
+}
+
+.covervid-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
